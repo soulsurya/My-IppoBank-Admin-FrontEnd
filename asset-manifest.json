@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/My-IppoBank-Admin-FrontEnd/static/css/main.f481d8d8.css",
-    "main.js": "/My-IppoBank-Admin-FrontEnd/static/js/main.91153874.js",
+    "main.js": "/My-IppoBank-Admin-FrontEnd/static/js/main.03728359.js",
     "static/js/787.7efd31bd.chunk.js": "/My-IppoBank-Admin-FrontEnd/static/js/787.7efd31bd.chunk.js",
     "static/media/bankImage.png": "/My-IppoBank-Admin-FrontEnd/static/media/bankImage.d0fb01cb4712c0174ca4.png",
     "static/media/phoneImage.png": "/My-IppoBank-Admin-FrontEnd/static/media/phoneImage.9b77f1b0df44e0955684.png",
     "index.html": "/My-IppoBank-Admin-FrontEnd/index.html",
     "main.f481d8d8.css.map": "/My-IppoBank-Admin-FrontEnd/static/css/main.f481d8d8.css.map",
-    "main.91153874.js.map": "/My-IppoBank-Admin-FrontEnd/static/js/main.91153874.js.map",
+    "main.03728359.js.map": "/My-IppoBank-Admin-FrontEnd/static/js/main.03728359.js.map",
     "787.7efd31bd.chunk.js.map": "/My-IppoBank-Admin-FrontEnd/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f481d8d8.css",
-    "static/js/main.91153874.js"
+    "static/js/main.03728359.js"
   ]
 }
