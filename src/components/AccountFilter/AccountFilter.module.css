@@ -1,0 +1,35 @@
+.row {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.rowLabel {
+  width: 120px;
+  font-family: Lato;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+
+  color: #000000;
+}
+
+.inputFieldsContainer {
+  display: flex;
+}
+
+.inputContainer {
+  width: 300px;
+  height: 40px;
+  margin-right: 50px;
+}
+
+.inputText {
+  width: 550px;
+  margin-right: 30px;
+}
+
+.searchButton {
+  margin-right: 30px;
+}

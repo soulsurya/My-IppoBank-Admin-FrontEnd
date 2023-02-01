@@ -1,0 +1,34 @@
+.header {
+  font-family: Lato;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+
+  color: #333333;
+
+  padding-bottom: 10px;
+}
+
+.tableContainer {
+  padding: 0px 25px;
+  overflow-y: auto;
+}
+
+.tableData {
+  border-bottom: none !important;
+}
+
+.tableHeaderContainer {
+  background: #061d61 !important;
+}
+
+.tableHeader {
+  color: #fff !important;
+}
+
+.filterContainer {
+  width: 100%;
+  background: #f9f9fb;
+  padding: 30px;
+  margin-bottom: 30px;
+}

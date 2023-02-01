@@ -1,0 +1,98 @@
+.header {
+  font-family: Lato;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+
+  color: #333333;
+
+  padding-bottom: 10px;
+}
+
+.tableContainer {
+  padding: 0px 25px;
+  overflow-y: auto;
+}
+
+.tableData {
+  border-bottom: none !important;
+}
+
+.tableHeaderContainer {
+  background: #061d61 !important;
+}
+
+.tableHeader {
+  color: #fff !important;
+}
+
+.filterContainer {
+  width: 100%;
+  background: #f9f9fb;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.icon {
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+}
+
+.modalContainer {
+  width: 600px;
+  height: 400px;
+}
+
+.formContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputForm {
+  max-width: max-content;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding-left: 25px;
+}
+
+.columnHeader {
+  font-family: Source Sans Pro;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 140%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+  justify-content: space-between;
+}
+
+.labelContainer {
+  display: flex;
+  margin-top: 5px;
+  margin-right: 40px;
+}
+
+.label {
+  font-family: Lato;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 550;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
